@@ -1,4 +1,4 @@
-# Overiview
+# Overview
 This project aims to make RivalCFG more user friendly and usable.
 
 # Special Thanks
